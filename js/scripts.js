@@ -154,6 +154,32 @@ $('document').ready(function () {
 
     });
 
+    $("#experience1").mouseenter(function () {
+        $("#experience1").css("font-size", "25px");
+
+    }).mouseleave(function () {
+        $("#experience1").css("font-size", "16px");
+
+
+    });
+
+    $("#experience2").mouseenter(function () {
+        $("#experience2").css("font-size", "25px");
+
+    }).mouseleave(function () {
+        $("#experience2").css("font-size", "16px");
+
+
+    });
+
+    $("#card1").mouseenter(function () {
+        $("#card1").css("font-size", "50px");
+
+    }).mouseleave(function () {
+        $("#card1").css("font-size", "25px");
+
+
+    });
 
 
 

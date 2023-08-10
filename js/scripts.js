@@ -154,7 +154,11 @@ $('document').ready(function () {
 
     });
 
+
    /* $("#experience1").click(function () {
+=======
+    $("#experience1").mouseenter(function () {
+
         $("#experience1").css("font-size", "25px");
 
     }).mouseleave(function () {
@@ -186,6 +190,15 @@ $('document').ready(function () {
 
     }).mouseleave(function () {
         $("#card2").css("background-color", "lightgray");
+
+    });
+
+    $("#card1").mouseenter(function () {
+        $("#card1").css("font-size", "50px");
+
+    }).mouseleave(function () {
+        $("#card1").css("font-size", "25px");
+
 
 
     });

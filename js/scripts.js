@@ -193,7 +193,7 @@ $('document').ready(function () {
 
     });
 
-    $("#card1").mouseenter(function () {
+/*    $("#card1").mouseenter(function () {
         $("#card1").css("font-size", "50px");
 
     }).mouseleave(function () {
@@ -203,6 +203,6 @@ $('document').ready(function () {
 
     });
 
-
+*/
 
 });
